@@ -1,5 +1,27 @@
 * [目录](SUMMARY.md)
 
+- run下看错误提示 
+    - 因为我的代码是复制老师的，但是我的数据库是自己手敲写的，所以数据库字段对应不正确也会出现空白页面
+- http://localhost:8080/
+
+
+- **github的使用教程**
+- 用git命令也可以实现项目的上传，并不一定要myexlipce中集成
+- Cd  D:\TanYinQingJavaEEStudy\ShiShiXiangMu\WordProdcument    这个是工作文档对应
+- 的目录
+- git add github使用教程.doc    提交单个文件
+- git add -A   表示提交所有文件
+- git commit -m “修改”       提交修改的所有文件
+- git push            提交到git服务器
+- git pull   更新线上代码到本地
+
+- 1 **从远处克隆一个文件到本地，必须先在本地建立一个空文件夹。并且黑屏进入D盘文件夹目录**
+- git clone https://github.com/tanyinqing/WordProdcument.git  
+- D:\TanYinQingJavaEEStudy\ShiShiXiangMu\WordProdcument
+- 
+- git clone https://github.com/tanyinqing/shop.git D:\myEclipse\shop
+
+
 web.xml Project Structure-Facets- web 修改路径配置web.xml文件
 Project Structure --Facets--spring  加载spring的配置文件
 
@@ -37,6 +59,3 @@ Java EE包含JSP和Servlet
 - 重新部署  alt+shift+F10 选redeploy
 - 增加web.xml 应用配置文件  file-project Structure-facets  点加号
 
-- run下看错误提示 
-    - 因为我的代码是复制老师的，但是我的数据库是自己手敲写的，所以数据库字段对应不正确也会出现空白页面
-- http://localhost:8080/
